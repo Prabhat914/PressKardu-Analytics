@@ -1,0 +1,601 @@
+order_id,customer_name,area,shop_id,shop_name,service,quantity,price,status,order_date,month,day_of_week
+ORD0001,Sanaya Chaudhuri,Karol Bagh,SH009,Bhargava Press Shop,Suit,1,80,Pending,2024-12-09,December,Monday
+ORD0002,Chameli Bhavsar,Karol Bagh,SH020,Arora Press Shop,Suit,5,400,Picked Up,2025-02-23,February,Sunday
+ORD0003,Vivaan Singhal,Pitampura,SH001,Som Press Shop,Saree,3,120,Delivered,2025-01-28,January,Tuesday
+ORD0004,Isaac Subramanian,Vasant Kunj,SH003,Dutt Press Shop,Shirt,5,75,Pending,2025-03-28,March,Friday
+ORD0005,Ikshita Suresh,Dwarka,SH013,Nanda Press Shop,Jacket,3,150,Delivered,2025-03-01,March,Saturday
+ORD0006,Nihal Bahl,Janakpuri,SH019,Oommen Press Shop,Pant,5,100,Delivered,2025-04-02,April,Wednesday
+ORD0007,Divya Lata,Janakpuri,SH006,Magar Press Shop,Saree,1,40,Delivered,2025-03-18,March,Tuesday
+ORD0008,Yuvraj Dyal,Vasant Kunj,SH010,Ganesan Press Shop,Saree,1,40,Delivered,2025-03-04,March,Tuesday
+ORD0009,Aarush Mital,Rohini,SH011,Magar Press Shop,Saree,2,80,In Progress,2025-03-06,March,Thursday
+ORD0010,Fariq Sibal,Karol Bagh,SH009,Bhargava Press Shop,Shirt,1,15,Delivered,2024-12-03,December,Tuesday
+ORD0011,Warhi Bora,Rohini,SH011,Magar Press Shop,Jacket,2,100,Picked Up,2025-04-05,April,Saturday
+ORD0012,Qadim Suresh,Dwarka,SH013,Nanda Press Shop,Shirt,4,60,Cancelled,2025-03-31,March,Monday
+ORD0013,Rohan Gole,Janakpuri,SH012,Narayan Press Shop,Bedsheet,4,120,Delivered,2025-02-15,February,Saturday
+ORD0014,Radhika Rao,Rohini,SH005,Chakrabarti Press Shop,Bedsheet,5,150,In Progress,2025-01-25,January,Saturday
+ORD0015,Ekalinga Kakar,Saket,SH004,Buch Press Shop,Salwar,2,70,Picked Up,2025-03-21,March,Friday
+ORD0016,Rayaan Ram,Janakpuri,SH006,Magar Press Shop,Salwar,1,35,Delivered,2025-03-01,March,Saturday
+ORD0017,Mohammed Chauhan,Vasant Kunj,SH010,Ganesan Press Shop,Suit,4,320,Delivered,2024-12-26,December,Thursday
+ORD0018,Gautami Murty,Rohini,SH014,Cheema Press Shop,Salwar,3,105,Delivered,2025-02-22,February,Saturday
+ORD0019,Rachit Chaudhari,Dwarka,SH013,Nanda Press Shop,Suit,5,400,Delivered,2025-01-30,January,Thursday
+ORD0020,Naveen Dhar,Janakpuri,SH012,Narayan Press Shop,Jacket,5,250,Pending,2025-05-21,May,Wednesday
+ORD0021,Yutika Bava,Saket,SH004,Buch Press Shop,Suit,2,160,Picked Up,2025-05-24,May,Saturday
+ORD0022,Bachittar Butala,Karol Bagh,SH020,Arora Press Shop,Shirt,2,30,Delivered,2025-02-04,February,Tuesday
+ORD0023,Manan Basak,Janakpuri,SH012,Narayan Press Shop,Bedsheet,5,150,In Progress,2024-12-12,December,Thursday
+ORD0024,Sai Koshy,Karol Bagh,SH020,Arora Press Shop,Saree,1,40,In Progress,2025-04-07,April,Monday
+ORD0025,Madhav Vohra,Rohini,SH011,Magar Press Shop,Saree,3,120,Picked Up,2025-02-22,February,Saturday
+ORD0026,Alka Sami,Rohini,SH014,Cheema Press Shop,Saree,4,160,Cancelled,2025-01-14,January,Tuesday
+ORD0027,Kashish Tiwari,Lajpat Nagar,SH008,Nadig Press Shop,Pant,4,80,Delivered,2024-12-15,December,Sunday
+ORD0028,Shaurya Minhas,Karol Bagh,SH020,Arora Press Shop,Pant,2,40,Delivered,2025-04-03,April,Thursday
+ORD0029,Inaya Manda,Saket,SH004,Buch Press Shop,Suit,1,80,Picked Up,2025-03-11,March,Tuesday
+ORD0030,Arjun Dhaliwal,Vasant Kunj,SH010,Ganesan Press Shop,Pant,5,100,Cancelled,2025-03-10,March,Monday
+ORD0031,Harish Lanka,Janakpuri,SH006,Magar Press Shop,Shirt,1,15,Delivered,2025-02-12,February,Wednesday
+ORD0032,Vedant Pillai,Janakpuri,SH019,Oommen Press Shop,Suit,5,400,Delivered,2025-01-13,January,Monday
+ORD0033,Chatura Gaba,Vasant Kunj,SH010,Ganesan Press Shop,Pant,4,80,In Progress,2025-05-06,May,Tuesday
+ORD0034,Gautam Kamdar,Saket,SH004,Buch Press Shop,Pant,5,100,Pending,2024-12-01,December,Sunday
+ORD0035,Yashodhara Verma,Janakpuri,SH016,Kade Press Shop,Kurta,4,100,Cancelled,2025-02-26,February,Wednesday
+ORD0036,Vedhika Prabhakar,Janakpuri,SH016,Kade Press Shop,Shirt,4,60,Delivered,2024-12-11,December,Wednesday
+ORD0037,Eshana Thakur,Vasant Kunj,SH002,Madan Press Shop,Kurta,3,75,In Progress,2025-05-18,May,Sunday
+ORD0038,Yashvi Srinivas,Vasant Kunj,SH003,Dutt Press Shop,Saree,1,40,Cancelled,2025-05-08,May,Thursday
+ORD0039,Ria Mittal,Rohini,SH014,Cheema Press Shop,Kurta,4,100,Cancelled,2025-05-09,May,Friday
+ORD0040,Avi Krishnamurthy,Pitampura,SH018,Peri Press Shop,Shirt,4,60,In Progress,2025-05-01,May,Thursday
+ORD0041,Neel Luthra,Vasant Kunj,SH002,Madan Press Shop,Salwar,1,35,Cancelled,2025-03-14,March,Friday
+ORD0042,Krish Ben,Dwarka,SH013,Nanda Press Shop,Suit,1,80,In Progress,2025-03-12,March,Wednesday
+ORD0043,Manan Narayan,Janakpuri,SH019,Oommen Press Shop,Saree,1,40,In Progress,2025-04-04,April,Friday
+ORD0044,Chasmum Uppal,Vasant Kunj,SH015,Kanda Press Shop,Saree,1,40,In Progress,2024-12-26,December,Thursday
+ORD0045,Bhavini Comar,Janakpuri,SH019,Oommen Press Shop,Saree,4,160,Delivered,2025-04-09,April,Wednesday
+ORD0046,Hemangini Khanna,Vasant Kunj,SH015,Kanda Press Shop,Saree,3,120,Delivered,2025-01-07,January,Tuesday
+ORD0047,Bahadurjit Cherian,Rohini,SH017,Issac Press Shop,Bedsheet,3,90,In Progress,2025-03-22,March,Saturday
+ORD0048,Kevin Doctor,Saket,SH004,Buch Press Shop,Salwar,4,140,Delivered,2025-03-23,March,Sunday
+ORD0049,Vyanjana Bhargava,Vasant Kunj,SH002,Madan Press Shop,Pant,3,60,Delivered,2025-05-18,May,Sunday
+ORD0050,Panini Bath,Pitampura,SH001,Som Press Shop,Salwar,5,175,Picked Up,2024-12-29,December,Sunday
+ORD0051,Falan Apte,Rohini,SH014,Cheema Press Shop,Jacket,2,100,Delivered,2025-05-02,May,Friday
+ORD0052,Jyoti Dalal,Janakpuri,SH006,Magar Press Shop,Saree,4,160,Delivered,2025-03-31,March,Monday
+ORD0053,Utkarsh Kaul,Janakpuri,SH019,Oommen Press Shop,Kurta,2,50,Delivered,2025-04-29,April,Tuesday
+ORD0054,Bhanumati Solanki,Rohini,SH011,Magar Press Shop,Saree,3,120,Delivered,2025-02-07,February,Friday
+ORD0055,Urmi Gara,Dwarka,SH013,Nanda Press Shop,Jacket,5,250,Picked Up,2025-04-05,April,Saturday
+ORD0056,Manthan Doctor,Janakpuri,SH016,Kade Press Shop,Shirt,1,15,Delivered,2024-12-18,December,Wednesday
+ORD0057,Libni Dhaliwal,Saket,SH004,Buch Press Shop,Jacket,2,100,Delivered,2025-05-22,May,Thursday
+ORD0058,Pushti Talwar,Vasant Kunj,SH015,Kanda Press Shop,Bedsheet,1,30,Picked Up,2025-03-28,March,Friday
+ORD0059,Rachit Prabhu,Karol Bagh,SH009,Bhargava Press Shop,Bedsheet,5,150,In Progress,2025-04-06,April,Sunday
+ORD0060,Aarnav Singh,Janakpuri,SH006,Magar Press Shop,Suit,1,80,Delivered,2025-03-30,March,Sunday
+ORD0061,Quincy Srinivasan,Lajpat Nagar,SH008,Nadig Press Shop,Saree,3,120,Delivered,2024-12-09,December,Monday
+ORD0062,Mohammed Tandon,Saket,SH004,Buch Press Shop,Pant,3,60,Delivered,2025-01-03,January,Friday
+ORD0063,Bahadurjit Gole,Dwarka,SH013,Nanda Press Shop,Bedsheet,4,120,In Progress,2025-03-24,March,Monday
+ORD0064,Avni Parsa,Janakpuri,SH006,Magar Press Shop,Jacket,4,200,Pending,2025-02-07,February,Friday
+ORD0065,Siddharth Badami,Janakpuri,SH006,Magar Press Shop,Pant,3,60,Picked Up,2025-05-16,May,Friday
+ORD0066,Zarna Varkey,Pitampura,SH001,Som Press Shop,Saree,2,80,In Progress,2025-04-14,April,Monday
+ORD0067,Manya Dara,Vasant Kunj,SH002,Madan Press Shop,Jacket,5,250,Pending,2025-03-03,March,Monday
+ORD0068,Charita Upadhyay,Janakpuri,SH006,Magar Press Shop,Suit,5,400,Cancelled,2025-05-26,May,Monday
+ORD0069,Laban Atwal,Vasant Kunj,SH010,Ganesan Press Shop,Kurta,5,125,Delivered,2025-01-20,January,Monday
+ORD0070,Ayushman Samra,Vasant Kunj,SH010,Ganesan Press Shop,Saree,1,40,Delivered,2024-12-19,December,Thursday
+ORD0071,Maanas Hora,Karol Bagh,SH020,Arora Press Shop,Salwar,4,140,Delivered,2025-01-23,January,Thursday
+ORD0072,Mohini Rai,Rohini,SH011,Magar Press Shop,Pant,2,40,Pending,2025-02-14,February,Friday
+ORD0073,Abhiram Shukla,Rohini,SH011,Magar Press Shop,Shirt,5,75,Delivered,2024-12-14,December,Saturday
+ORD0074,Hema Narasimhan,Rohini,SH014,Cheema Press Shop,Kurta,2,50,Pending,2025-01-29,January,Wednesday
+ORD0075,Zilmil Sundaram,Janakpuri,SH012,Narayan Press Shop,Kurta,2,50,Picked Up,2025-05-01,May,Thursday
+ORD0076,Wridesh Shanker,Vasant Kunj,SH003,Dutt Press Shop,Bedsheet,4,120,Delivered,2024-12-03,December,Tuesday
+ORD0077,Kabir Srivastava,Janakpuri,SH012,Narayan Press Shop,Pant,4,80,Pending,2025-01-31,January,Friday
+ORD0078,Vincent Bal,Vasant Kunj,SH010,Ganesan Press Shop,Salwar,2,70,Picked Up,2025-05-27,May,Tuesday
+ORD0079,Yash Mall,Pitampura,SH001,Som Press Shop,Jacket,1,50,Delivered,2025-03-31,March,Monday
+ORD0080,Gabriel Chad,Karol Bagh,SH009,Bhargava Press Shop,Shirt,1,15,Delivered,2025-01-22,January,Wednesday
+ORD0081,Jeremiah Rao,Rohini,SH017,Issac Press Shop,Bedsheet,2,60,Picked Up,2025-03-10,March,Monday
+ORD0082,Sara Mital,Rohini,SH005,Chakrabarti Press Shop,Pant,5,100,Cancelled,2025-03-12,March,Wednesday
+ORD0083,Ayaan Bhat,Karol Bagh,SH009,Bhargava Press Shop,Jacket,3,150,In Progress,2025-05-16,May,Friday
+ORD0084,Elijah Anand,Janakpuri,SH019,Oommen Press Shop,Salwar,4,140,Delivered,2025-04-13,April,Sunday
+ORD0085,Aditya Kata,Karol Bagh,SH009,Bhargava Press Shop,Shirt,1,15,In Progress,2025-04-14,April,Monday
+ORD0086,Naksh Hegde,Janakpuri,SH012,Narayan Press Shop,Pant,3,60,In Progress,2025-03-06,March,Thursday
+ORD0087,Saumya Purohit,Vasant Kunj,SH015,Kanda Press Shop,Bedsheet,1,30,Delivered,2025-02-16,February,Sunday
+ORD0088,Mohini Srinivas,Rohini,SH014,Cheema Press Shop,Jacket,3,150,In Progress,2025-04-02,April,Wednesday
+ORD0089,Bina Ghose,Janakpuri,SH016,Kade Press Shop,Pant,1,20,Delivered,2025-02-08,February,Saturday
+ORD0090,Aayush Bath,Janakpuri,SH019,Oommen Press Shop,Jacket,3,150,Picked Up,2025-05-20,May,Tuesday
+ORD0091,Tara Prabhakar,Rohini,SH017,Issac Press Shop,Jacket,4,200,Delivered,2025-05-15,May,Thursday
+ORD0092,Sanya Hayer,Janakpuri,SH016,Kade Press Shop,Suit,3,240,Delivered,2025-04-10,April,Thursday
+ORD0093,Falan Divan,Vasant Kunj,SH015,Kanda Press Shop,Bedsheet,4,120,In Progress,2025-03-10,March,Monday
+ORD0094,Adweta Karpe,Janakpuri,SH016,Kade Press Shop,Bedsheet,3,90,Cancelled,2025-05-10,May,Saturday
+ORD0095,Samaksh Rama,Janakpuri,SH016,Kade Press Shop,Shirt,4,60,In Progress,2024-12-22,December,Sunday
+ORD0096,Jackson Dani,Rohini,SH011,Magar Press Shop,Shirt,2,30,Cancelled,2024-12-06,December,Friday
+ORD0097,Unni Parmer,Vasant Kunj,SH003,Dutt Press Shop,Jacket,2,100,Pending,2025-03-01,March,Saturday
+ORD0098,Amol Ghosh,Rohini,SH017,Issac Press Shop,Salwar,3,105,Delivered,2024-12-28,December,Saturday
+ORD0099,Anika Devi,Pitampura,SH001,Som Press Shop,Bedsheet,5,150,Picked Up,2025-04-19,April,Saturday
+ORD0100,Ekansh Soman,Karol Bagh,SH020,Arora Press Shop,Salwar,5,175,Delivered,2025-05-29,May,Thursday
+ORD0101,Banjeet Naik,Janakpuri,SH016,Kade Press Shop,Pant,4,80,In Progress,2025-02-20,February,Thursday
+ORD0102,Benjamin Dixit,Vasant Kunj,SH002,Madan Press Shop,Salwar,1,35,In Progress,2025-02-01,February,Saturday
+ORD0103,Nisha Konda,Rohini,SH005,Chakrabarti Press Shop,Saree,2,80,Delivered,2025-03-07,March,Friday
+ORD0104,Vrishti Subramanian,Vasant Kunj,SH002,Madan Press Shop,Kurta,2,50,Delivered,2025-04-25,April,Friday
+ORD0105,Jason Toor,Karol Bagh,SH009,Bhargava Press Shop,Kurta,3,75,In Progress,2025-05-23,May,Friday
+ORD0106,Harinakshi Sarma,Rohini,SH005,Chakrabarti Press Shop,Pant,5,100,Delivered,2024-12-24,December,Tuesday
+ORD0107,Yash Randhawa,Saket,SH004,Buch Press Shop,Salwar,4,140,In Progress,2025-02-23,February,Sunday
+ORD0108,Jacob Sankar,Rohini,SH014,Cheema Press Shop,Suit,2,160,In Progress,2025-05-27,May,Tuesday
+ORD0109,Januja Agarwal,Janakpuri,SH012,Narayan Press Shop,Jacket,3,150,Cancelled,2025-01-23,January,Thursday
+ORD0110,Gabriel Soman,Janakpuri,SH019,Oommen Press Shop,Pant,5,100,Pending,2025-04-24,April,Thursday
+ORD0111,Vidhi Balay,Karol Bagh,SH009,Bhargava Press Shop,Shirt,2,30,Delivered,2025-01-17,January,Friday
+ORD0112,Diya Agarwal,Rohini,SH005,Chakrabarti Press Shop,Salwar,1,35,Delivered,2024-12-14,December,Saturday
+ORD0113,Ekantika Dugal,Karol Bagh,SH020,Arora Press Shop,Suit,3,240,In Progress,2025-03-11,March,Tuesday
+ORD0114,Ayushman Halder,Rohini,SH014,Cheema Press Shop,Bedsheet,5,150,Cancelled,2024-12-02,December,Monday
+ORD0115,Nihal Agate,Vasant Kunj,SH002,Madan Press Shop,Pant,1,20,Delivered,2025-03-28,March,Friday
+ORD0116,Bachittar Purohit,Vasant Kunj,SH015,Kanda Press Shop,Salwar,4,140,Delivered,2025-03-20,March,Thursday
+ORD0117,Lakshit Kibe,Janakpuri,SH012,Narayan Press Shop,Jacket,2,100,Delivered,2025-01-30,January,Thursday
+ORD0118,Yashoda Pandit,Pitampura,SH001,Som Press Shop,Kurta,3,75,Cancelled,2025-01-26,January,Sunday
+ORD0119,Chanchal Zacharia,Dwarka,SH013,Nanda Press Shop,Suit,4,320,Delivered,2025-01-31,January,Friday
+ORD0120,Shravya Sethi,Vasant Kunj,SH010,Ganesan Press Shop,Pant,4,80,Delivered,2025-02-08,February,Saturday
+ORD0121,Yasti D’Alia,Karol Bagh,SH020,Arora Press Shop,Saree,3,120,Picked Up,2025-01-15,January,Wednesday
+ORD0122,Yauvani Khanna,Lajpat Nagar,SH008,Nadig Press Shop,Jacket,5,250,In Progress,2025-03-09,March,Sunday
+ORD0123,Tanmayi Hans,Janakpuri,SH016,Kade Press Shop,Bedsheet,3,90,Delivered,2025-04-25,April,Friday
+ORD0124,Frederick Rau,Saket,SH004,Buch Press Shop,Shirt,4,60,In Progress,2024-12-04,December,Wednesday
+ORD0125,Manthan Trivedi,Pitampura,SH001,Som Press Shop,Shirt,2,30,Picked Up,2025-05-28,May,Wednesday
+ORD0126,Laban Khurana,Dwarka,SH013,Nanda Press Shop,Salwar,2,70,Delivered,2025-05-27,May,Tuesday
+ORD0127,Laban Saha,Rohini,SH014,Cheema Press Shop,Kurta,5,125,Pending,2025-04-13,April,Sunday
+ORD0128,Wishi Rattan,Dwarka,SH013,Nanda Press Shop,Salwar,4,140,In Progress,2025-01-27,January,Monday
+ORD0129,Aachal Nayar,Vasant Kunj,SH015,Kanda Press Shop,Pant,1,20,Picked Up,2025-03-20,March,Thursday
+ORD0130,Oliver Kala,Saket,SH007,Sama Press Shop,Bedsheet,1,30,Delivered,2025-04-20,April,Sunday
+ORD0131,Faris Dube,Lajpat Nagar,SH008,Nadig Press Shop,Saree,1,40,Delivered,2025-04-19,April,Saturday
+ORD0132,Chameli Zacharia,Karol Bagh,SH009,Bhargava Press Shop,Kurta,1,25,Delivered,2024-12-19,December,Thursday
+ORD0133,Nidra Lalla,Rohini,SH014,Cheema Press Shop,Shirt,2,30,Pending,2025-01-22,January,Wednesday
+ORD0134,Xavier Nayak,Pitampura,SH001,Som Press Shop,Suit,5,400,Delivered,2025-01-29,January,Wednesday
+ORD0135,Sara Sethi,Pitampura,SH001,Som Press Shop,Suit,3,240,In Progress,2025-05-12,May,Monday
+ORD0136,Mugdha Randhawa,Dwarka,SH013,Nanda Press Shop,Pant,1,20,Delivered,2025-02-16,February,Sunday
+ORD0137,Odika Srinivasan,Saket,SH004,Buch Press Shop,Salwar,3,105,In Progress,2025-02-15,February,Saturday
+ORD0138,Yashoda Kohli,Saket,SH004,Buch Press Shop,Shirt,3,45,Delivered,2025-01-06,January,Monday
+ORD0139,Ucchal Virk,Rohini,SH017,Issac Press Shop,Bedsheet,3,90,Delivered,2025-01-09,January,Thursday
+ORD0140,Raksha Radhakrishnan,Karol Bagh,SH020,Arora Press Shop,Pant,2,40,Delivered,2025-01-26,January,Sunday
+ORD0141,Gabriel Chander,Rohini,SH014,Cheema Press Shop,Salwar,5,175,Picked Up,2025-04-04,April,Friday
+ORD0142,Frederick Kumar,Vasant Kunj,SH010,Ganesan Press Shop,Shirt,3,45,In Progress,2025-02-22,February,Saturday
+ORD0143,Anmol Sarkar,Vasant Kunj,SH003,Dutt Press Shop,Saree,2,80,In Progress,2025-01-27,January,Monday
+ORD0144,Yashasvi Bajaj,Karol Bagh,SH020,Arora Press Shop,Shirt,1,15,Pending,2025-05-01,May,Thursday
+ORD0145,Yadavi Deol,Pitampura,SH018,Peri Press Shop,Pant,1,20,In Progress,2025-03-11,March,Tuesday
+ORD0146,Libni Sama,Janakpuri,SH016,Kade Press Shop,Kurta,2,50,Cancelled,2025-05-15,May,Thursday
+ORD0147,Sara Sengupta,Rohini,SH014,Cheema Press Shop,Shirt,5,75,Pending,2024-12-02,December,Monday
+ORD0148,Kalpit Iyengar,Rohini,SH011,Magar Press Shop,Kurta,3,75,Cancelled,2025-04-22,April,Tuesday
+ORD0149,Yochana Thaman,Lajpat Nagar,SH008,Nadig Press Shop,Shirt,1,15,In Progress,2025-03-16,March,Sunday
+ORD0150,Umang Rajagopalan,Karol Bagh,SH020,Arora Press Shop,Pant,4,80,Pending,2025-01-18,January,Saturday
+ORD0151,Aditya Sachdev,Saket,SH004,Buch Press Shop,Saree,2,80,In Progress,2025-04-19,April,Saturday
+ORD0152,Anthony Manne,Karol Bagh,SH009,Bhargava Press Shop,Suit,2,160,Delivered,2024-12-29,December,Sunday
+ORD0153,Wriddhish Balay,Vasant Kunj,SH010,Ganesan Press Shop,Suit,1,80,In Progress,2025-05-14,May,Wednesday
+ORD0154,Udarsh Chaudhry,Rohini,SH005,Chakrabarti Press Shop,Salwar,3,105,Picked Up,2024-12-06,December,Friday
+ORD0155,Saumya Tella,Rohini,SH014,Cheema Press Shop,Bedsheet,2,60,Delivered,2025-05-14,May,Wednesday
+ORD0156,Aahana Pant,Karol Bagh,SH020,Arora Press Shop,Pant,1,20,Delivered,2025-05-15,May,Thursday
+ORD0157,Frederick Goel,Pitampura,SH001,Som Press Shop,Salwar,1,35,Pending,2025-02-17,February,Monday
+ORD0158,Zehaan Batta,Karol Bagh,SH020,Arora Press Shop,Salwar,3,105,Picked Up,2024-12-10,December,Tuesday
+ORD0159,Balvan Kar,Vasant Kunj,SH015,Kanda Press Shop,Saree,1,40,In Progress,2025-05-14,May,Wednesday
+ORD0160,Ryan Raval,Vasant Kunj,SH010,Ganesan Press Shop,Jacket,5,250,Delivered,2025-01-01,January,Wednesday
+ORD0161,Ranveer Kala,Janakpuri,SH019,Oommen Press Shop,Pant,4,80,Picked Up,2024-12-13,December,Friday
+ORD0162,Vaishnavi Gola,Karol Bagh,SH009,Bhargava Press Shop,Bedsheet,4,120,Cancelled,2025-01-17,January,Friday
+ORD0163,Chasmum Buch,Janakpuri,SH012,Narayan Press Shop,Jacket,2,100,Delivered,2025-03-14,March,Friday
+ORD0164,Ladli More,Vasant Kunj,SH002,Madan Press Shop,Shirt,2,30,In Progress,2025-03-03,March,Monday
+ORD0165,Yochana Dada,Rohini,SH011,Magar Press Shop,Suit,2,160,Pending,2025-01-24,January,Friday
+ORD0166,Faraj Gandhi,Karol Bagh,SH020,Arora Press Shop,Saree,5,200,Pending,2024-12-23,December,Monday
+ORD0167,Chameli Shetty,Janakpuri,SH006,Magar Press Shop,Pant,5,100,In Progress,2024-12-11,December,Wednesday
+ORD0168,Qushi Baral,Karol Bagh,SH020,Arora Press Shop,Kurta,5,125,Picked Up,2025-05-25,May,Sunday
+ORD0169,Parth Thakur,Rohini,SH014,Cheema Press Shop,Salwar,2,70,Picked Up,2024-12-19,December,Thursday
+ORD0170,Madhav Amble,Rohini,SH005,Chakrabarti Press Shop,Pant,4,80,In Progress,2024-12-14,December,Saturday
+ORD0171,Bahadurjit Bora,Janakpuri,SH016,Kade Press Shop,Suit,4,320,Delivered,2024-12-25,December,Wednesday
+ORD0172,Anjali Rau,Karol Bagh,SH009,Bhargava Press Shop,Jacket,1,50,In Progress,2025-04-25,April,Friday
+ORD0173,Falan Master,Rohini,SH005,Chakrabarti Press Shop,Pant,2,40,Delivered,2025-01-26,January,Sunday
+ORD0174,Mitali Chopra,Vasant Kunj,SH002,Madan Press Shop,Saree,2,80,Delivered,2025-04-24,April,Thursday
+ORD0175,Qadim Chakrabarti,Janakpuri,SH006,Magar Press Shop,Saree,4,160,Delivered,2025-01-16,January,Thursday
+ORD0176,Jacob Savant,Pitampura,SH001,Som Press Shop,Saree,3,120,Pending,2025-02-26,February,Wednesday
+ORD0177,Falguni Gola,Lajpat Nagar,SH008,Nadig Press Shop,Saree,2,80,Cancelled,2025-05-07,May,Wednesday
+ORD0178,Janaki Gola,Janakpuri,SH012,Narayan Press Shop,Kurta,2,50,Delivered,2025-05-15,May,Thursday
+ORD0179,Advaith Som,Pitampura,SH018,Peri Press Shop,Pant,3,60,Delivered,2025-01-15,January,Wednesday
+ORD0180,Sachi Chad,Janakpuri,SH019,Oommen Press Shop,Kurta,3,75,Delivered,2025-02-25,February,Tuesday
+ORD0181,Ayush Bhandari,Vasant Kunj,SH015,Kanda Press Shop,Shirt,4,60,Delivered,2024-12-18,December,Wednesday
+ORD0182,Leena Anand,Janakpuri,SH016,Kade Press Shop,Salwar,4,140,In Progress,2025-05-20,May,Tuesday
+ORD0183,Rohan Tailor,Rohini,SH017,Issac Press Shop,Pant,5,100,Delivered,2025-04-16,April,Wednesday
+ORD0184,Jagvi Kalla,Karol Bagh,SH009,Bhargava Press Shop,Jacket,5,250,Picked Up,2025-05-11,May,Sunday
+ORD0185,Yachana Prakash,Lajpat Nagar,SH008,Nadig Press Shop,Salwar,4,140,In Progress,2025-01-12,January,Sunday
+ORD0186,Gayathri Purohit,Lajpat Nagar,SH008,Nadig Press Shop,Pant,5,100,In Progress,2025-05-23,May,Friday
+ORD0187,Prisha Bajwa,Karol Bagh,SH020,Arora Press Shop,Shirt,2,30,Delivered,2025-01-07,January,Tuesday
+ORD0188,Gaurangi Mukhopadhyay,Rohini,SH011,Magar Press Shop,Salwar,5,175,Delivered,2024-12-20,December,Friday
+ORD0189,Wriddhish Bhatti,Rohini,SH005,Chakrabarti Press Shop,Kurta,4,100,Picked Up,2025-02-15,February,Saturday
+ORD0190,Jack Choudhry,Saket,SH004,Buch Press Shop,Bedsheet,4,120,Delivered,2025-01-22,January,Wednesday
+ORD0191,Zansi Sangha,Dwarka,SH013,Nanda Press Shop,Kurta,2,50,Delivered,2025-05-06,May,Tuesday
+ORD0192,Amol Bakshi,Vasant Kunj,SH003,Dutt Press Shop,Pant,2,40,Picked Up,2025-02-04,February,Tuesday
+ORD0193,Vihaan Karnik,Karol Bagh,SH020,Arora Press Shop,Bedsheet,4,120,Picked Up,2024-12-23,December,Monday
+ORD0194,Ekaraj Reddy,Rohini,SH014,Cheema Press Shop,Bedsheet,5,150,Cancelled,2024-12-31,December,Tuesday
+ORD0195,Jeevika Joshi,Vasant Kunj,SH010,Ganesan Press Shop,Saree,5,200,Delivered,2025-05-11,May,Sunday
+ORD0196,Chanakya Nazareth,Pitampura,SH001,Som Press Shop,Saree,2,80,In Progress,2025-03-14,March,Friday
+ORD0197,Pranit Pandey,Vasant Kunj,SH002,Madan Press Shop,Kurta,3,75,Pending,2025-05-16,May,Friday
+ORD0198,Deepa Agarwal,Janakpuri,SH019,Oommen Press Shop,Shirt,1,15,Picked Up,2025-05-09,May,Friday
+ORD0199,Gaurika Rajagopal,Rohini,SH014,Cheema Press Shop,Suit,3,240,Delivered,2024-12-11,December,Wednesday
+ORD0200,Advika Setty,Janakpuri,SH019,Oommen Press Shop,Pant,1,20,Picked Up,2025-01-05,January,Sunday
+ORD0201,Ekta Mitter,Vasant Kunj,SH003,Dutt Press Shop,Bedsheet,1,30,Delivered,2024-12-05,December,Thursday
+ORD0202,Janya Mahajan,Rohini,SH011,Magar Press Shop,Bedsheet,3,90,Delivered,2025-04-01,April,Tuesday
+ORD0203,Amaira Wali,Vasant Kunj,SH002,Madan Press Shop,Saree,2,80,Delivered,2024-12-20,December,Friday
+ORD0204,Advik Sha,Pitampura,SH018,Peri Press Shop,Bedsheet,5,150,Delivered,2025-05-03,May,Saturday
+ORD0205,Yashica Pandey,Janakpuri,SH006,Magar Press Shop,Suit,1,80,Picked Up,2025-05-03,May,Saturday
+ORD0206,Rachana Hans,Janakpuri,SH012,Narayan Press Shop,Kurta,3,75,In Progress,2025-04-15,April,Tuesday
+ORD0207,Liam Bhattacharyya,Vasant Kunj,SH003,Dutt Press Shop,Jacket,4,200,In Progress,2025-02-04,February,Tuesday
+ORD0208,Charita Ramachandran,Saket,SH004,Buch Press Shop,Kurta,3,75,Delivered,2025-02-24,February,Monday
+ORD0209,Hritik Wali,Janakpuri,SH012,Narayan Press Shop,Shirt,3,45,Delivered,2025-03-09,March,Sunday
+ORD0210,Diya Bora,Rohini,SH005,Chakrabarti Press Shop,Saree,2,80,Delivered,2025-03-01,March,Saturday
+ORD0211,Gagan Ramaswamy,Rohini,SH005,Chakrabarti Press Shop,Salwar,5,175,Delivered,2025-03-25,March,Tuesday
+ORD0212,Anya Pathak,Janakpuri,SH006,Magar Press Shop,Jacket,5,250,Picked Up,2025-05-10,May,Saturday
+ORD0213,Qushi Nadkarni,Saket,SH007,Sama Press Shop,Bedsheet,5,150,In Progress,2025-04-15,April,Tuesday
+ORD0214,Jatin Kaur,Rohini,SH014,Cheema Press Shop,Shirt,1,15,Picked Up,2025-03-15,March,Saturday
+ORD0215,Bina Subramaniam,Karol Bagh,SH009,Bhargava Press Shop,Jacket,3,150,In Progress,2025-02-27,February,Thursday
+ORD0216,Oscar Sunder,Lajpat Nagar,SH008,Nadig Press Shop,Salwar,1,35,Picked Up,2025-01-15,January,Wednesday
+ORD0217,Dalaja Apte,Janakpuri,SH012,Narayan Press Shop,Suit,4,320,Delivered,2025-03-13,March,Thursday
+ORD0218,Charvi Modi,Saket,SH004,Buch Press Shop,Pant,1,20,Pending,2025-02-06,February,Thursday
+ORD0219,Siya Nair,Saket,SH007,Sama Press Shop,Bedsheet,5,150,Picked Up,2025-04-16,April,Wednesday
+ORD0220,Hritik Bora,Saket,SH007,Sama Press Shop,Pant,3,60,In Progress,2025-01-28,January,Tuesday
+ORD0221,Raagini Reddy,Pitampura,SH001,Som Press Shop,Salwar,1,35,In Progress,2025-04-17,April,Thursday
+ORD0222,Neel Dubey,Saket,SH004,Buch Press Shop,Bedsheet,4,120,Delivered,2025-02-09,February,Sunday
+ORD0223,Niharika Samra,Rohini,SH005,Chakrabarti Press Shop,Bedsheet,2,60,Picked Up,2025-02-10,February,Monday
+ORD0224,Omya Kurian,Pitampura,SH001,Som Press Shop,Suit,2,160,Delivered,2025-05-21,May,Wednesday
+ORD0225,Tristan Bala,Rohini,SH017,Issac Press Shop,Bedsheet,1,30,In Progress,2025-05-19,May,Monday
+ORD0226,Omya Sachar,Rohini,SH017,Issac Press Shop,Salwar,3,105,Cancelled,2025-01-14,January,Tuesday
+ORD0227,Yashodhara Bora,Rohini,SH005,Chakrabarti Press Shop,Jacket,4,200,Picked Up,2025-02-20,February,Thursday
+ORD0228,Anay Kakar,Vasant Kunj,SH015,Kanda Press Shop,Pant,1,20,In Progress,2025-04-09,April,Wednesday
+ORD0229,Chavvi Bhalla,Dwarka,SH013,Nanda Press Shop,Suit,5,400,In Progress,2025-03-02,March,Sunday
+ORD0230,Simon Dhaliwal,Rohini,SH005,Chakrabarti Press Shop,Suit,1,80,Delivered,2025-04-25,April,Friday
+ORD0231,Hemani Parmer,Janakpuri,SH012,Narayan Press Shop,Jacket,3,150,Delivered,2025-03-16,March,Sunday
+ORD0232,Vasana Sinha,Janakpuri,SH019,Oommen Press Shop,Pant,2,40,Pending,2025-02-20,February,Thursday
+ORD0233,Faras Nori,Karol Bagh,SH020,Arora Press Shop,Saree,5,200,Cancelled,2025-01-24,January,Friday
+ORD0234,Devika Cheema,Saket,SH004,Buch Press Shop,Kurta,1,25,Delivered,2025-05-02,May,Friday
+ORD0235,Ria Peri,Janakpuri,SH012,Narayan Press Shop,Salwar,5,175,Delivered,2025-03-25,March,Tuesday
+ORD0236,Sanaya Karan,Janakpuri,SH019,Oommen Press Shop,Bedsheet,5,150,In Progress,2025-01-02,January,Thursday
+ORD0237,Benjamin Sampath,Rohini,SH005,Chakrabarti Press Shop,Saree,1,40,Cancelled,2025-05-13,May,Tuesday
+ORD0238,Falguni Sampath,Dwarka,SH013,Nanda Press Shop,Salwar,1,35,Delivered,2025-01-25,January,Saturday
+ORD0239,Omya Kohli,Dwarka,SH013,Nanda Press Shop,Bedsheet,1,30,Delivered,2025-05-23,May,Friday
+ORD0240,Pushti Patla,Vasant Kunj,SH010,Ganesan Press Shop,Saree,1,40,Delivered,2025-03-25,March,Tuesday
+ORD0241,Maya Swamy,Vasant Kunj,SH002,Madan Press Shop,Kurta,2,50,Cancelled,2025-05-27,May,Tuesday
+ORD0242,Kavya Bera,Rohini,SH014,Cheema Press Shop,Saree,1,40,Pending,2025-03-24,March,Monday
+ORD0243,Ucchal Toor,Vasant Kunj,SH003,Dutt Press Shop,Suit,4,320,Pending,2024-12-06,December,Friday
+ORD0244,Nathaniel Tara,Karol Bagh,SH020,Arora Press Shop,Salwar,4,140,Cancelled,2025-03-12,March,Wednesday
+ORD0245,Luke Garg,Pitampura,SH001,Som Press Shop,Jacket,1,50,Picked Up,2024-12-16,December,Monday
+ORD0246,Sathvik Keer,Dwarka,SH013,Nanda Press Shop,Pant,4,80,Picked Up,2025-04-20,April,Sunday
+ORD0247,Wakeeta Balan,Saket,SH007,Sama Press Shop,Kurta,2,50,Delivered,2025-03-17,March,Monday
+ORD0248,Qadim Ratti,Vasant Kunj,SH002,Madan Press Shop,Salwar,2,70,Delivered,2024-12-01,December,Sunday
+ORD0249,Charita Krish,Janakpuri,SH019,Oommen Press Shop,Saree,3,120,Delivered,2024-12-19,December,Thursday
+ORD0250,Rajata Wali,Pitampura,SH001,Som Press Shop,Suit,5,400,Delivered,2025-01-12,January,Sunday
+ORD0251,Ekiya Deep,Pitampura,SH018,Peri Press Shop,Salwar,5,175,Cancelled,2025-03-20,March,Thursday
+ORD0252,Chavvi Singhal,Janakpuri,SH019,Oommen Press Shop,Saree,2,80,In Progress,2025-01-11,January,Saturday
+ORD0253,Advay Acharya,Karol Bagh,SH020,Arora Press Shop,Salwar,1,35,Cancelled,2025-01-03,January,Friday
+ORD0254,Patrick Randhawa,Janakpuri,SH006,Magar Press Shop,Kurta,5,125,Pending,2025-02-05,February,Wednesday
+ORD0255,Isaac Malhotra,Lajpat Nagar,SH008,Nadig Press Shop,Shirt,5,75,Delivered,2025-02-21,February,Friday
+ORD0256,Nihal Kaur,Saket,SH007,Sama Press Shop,Pant,5,100,Delivered,2024-12-01,December,Sunday
+ORD0257,Gauri Chand,Karol Bagh,SH009,Bhargava Press Shop,Shirt,5,75,Delivered,2024-12-18,December,Wednesday
+ORD0258,Charan Sen,Janakpuri,SH016,Kade Press Shop,Pant,5,100,Cancelled,2024-12-24,December,Tuesday
+ORD0259,Aarush Prasad,Vasant Kunj,SH015,Kanda Press Shop,Kurta,3,75,Delivered,2025-05-11,May,Sunday
+ORD0260,Victor Kashyap,Karol Bagh,SH009,Bhargava Press Shop,Saree,4,160,Delivered,2025-02-19,February,Wednesday
+ORD0261,Aditya Trivedi,Saket,SH004,Buch Press Shop,Shirt,1,15,Delivered,2025-01-30,January,Thursday
+ORD0262,Sneha Guha,Janakpuri,SH012,Narayan Press Shop,Pant,3,60,In Progress,2025-03-29,March,Saturday
+ORD0263,Nidra De,Vasant Kunj,SH015,Kanda Press Shop,Suit,4,320,Delivered,2025-04-01,April,Tuesday
+ORD0264,Saumya Tata,Karol Bagh,SH009,Bhargava Press Shop,Kurta,2,50,Pending,2025-01-31,January,Friday
+ORD0265,Neel Goyal,Karol Bagh,SH020,Arora Press Shop,Bedsheet,1,30,In Progress,2025-02-26,February,Wednesday
+ORD0266,Barkha Chandra,Karol Bagh,SH009,Bhargava Press Shop,Kurta,1,25,Delivered,2025-05-28,May,Wednesday
+ORD0267,Vaishnavi De,Saket,SH004,Buch Press Shop,Pant,4,80,Delivered,2025-01-02,January,Thursday
+ORD0268,Wridesh Mitter,Karol Bagh,SH009,Bhargava Press Shop,Salwar,4,140,Pending,2024-12-30,December,Monday
+ORD0269,Ekanta Chandran,Lajpat Nagar,SH008,Nadig Press Shop,Jacket,4,200,In Progress,2025-05-19,May,Monday
+ORD0270,Pooja Date,Janakpuri,SH006,Magar Press Shop,Jacket,5,250,Delivered,2025-05-16,May,Friday
+ORD0271,Balhaar Soman,Janakpuri,SH006,Magar Press Shop,Jacket,1,50,Delivered,2025-04-02,April,Wednesday
+ORD0272,Isaac Nagy,Lajpat Nagar,SH008,Nadig Press Shop,Shirt,1,15,Delivered,2025-02-28,February,Friday
+ORD0273,Bakhshi Sathe,Saket,SH004,Buch Press Shop,Bedsheet,3,90,Delivered,2025-01-15,January,Wednesday
+ORD0274,Anthony Raj,Rohini,SH017,Issac Press Shop,Salwar,5,175,Delivered,2024-12-17,December,Tuesday
+ORD0275,Nihal Nanda,Janakpuri,SH012,Narayan Press Shop,Pant,5,100,Delivered,2025-04-19,April,Saturday
+ORD0276,Maya Radhakrishnan,Rohini,SH005,Chakrabarti Press Shop,Pant,1,20,Delivered,2025-05-17,May,Saturday
+ORD0277,Vedhika Mander,Vasant Kunj,SH002,Madan Press Shop,Saree,5,200,Delivered,2025-05-26,May,Monday
+ORD0278,Samesh Khalsa,Karol Bagh,SH009,Bhargava Press Shop,Pant,4,80,In Progress,2025-05-08,May,Thursday
+ORD0279,Ekanta Narayanan,Pitampura,SH018,Peri Press Shop,Kurta,4,100,Delivered,2025-01-24,January,Friday
+ORD0280,Raagini Patil,Pitampura,SH001,Som Press Shop,Kurta,2,50,Cancelled,2024-12-10,December,Tuesday
+ORD0281,Sai Mammen,Vasant Kunj,SH003,Dutt Press Shop,Jacket,5,250,Delivered,2025-02-17,February,Monday
+ORD0282,Victor Varkey,Pitampura,SH001,Som Press Shop,Jacket,2,100,Delivered,2025-02-08,February,Saturday
+ORD0283,Kritika Pathak,Janakpuri,SH012,Narayan Press Shop,Bedsheet,2,60,Delivered,2025-02-01,February,Saturday
+ORD0284,Urvashi Desai,Pitampura,SH001,Som Press Shop,Salwar,1,35,In Progress,2025-01-30,January,Thursday
+ORD0285,Jhalak Merchant,Janakpuri,SH006,Magar Press Shop,Salwar,4,140,Picked Up,2025-03-04,March,Tuesday
+ORD0286,Yahvi Bhatnagar,Dwarka,SH013,Nanda Press Shop,Kurta,4,100,Picked Up,2025-02-08,February,Saturday
+ORD0287,Arunima Rajan,Saket,SH007,Sama Press Shop,Suit,5,400,Delivered,2025-05-09,May,Friday
+ORD0288,Avni Sabharwal,Rohini,SH005,Chakrabarti Press Shop,Saree,3,120,In Progress,2024-12-10,December,Tuesday
+ORD0289,Krishna Rao,Janakpuri,SH012,Narayan Press Shop,Bedsheet,4,120,In Progress,2025-04-14,April,Monday
+ORD0290,Aadhya Chahal,Rohini,SH017,Issac Press Shop,Bedsheet,4,120,Delivered,2025-04-17,April,Thursday
+ORD0291,Jeremiah Mammen,Janakpuri,SH016,Kade Press Shop,Suit,1,80,Delivered,2025-03-29,March,Saturday
+ORD0292,Osha Nanda,Janakpuri,SH019,Oommen Press Shop,Salwar,3,105,Pending,2025-04-06,April,Sunday
+ORD0293,Sai Comar,Vasant Kunj,SH002,Madan Press Shop,Bedsheet,4,120,In Progress,2025-03-11,March,Tuesday
+ORD0294,Daksha Dhaliwal,Vasant Kunj,SH003,Dutt Press Shop,Salwar,3,105,Picked Up,2025-04-09,April,Wednesday
+ORD0295,Lekha Doshi,Vasant Kunj,SH015,Kanda Press Shop,Salwar,4,140,Delivered,2025-05-27,May,Tuesday
+ORD0296,Rushil Som,Vasant Kunj,SH003,Dutt Press Shop,Shirt,2,30,Delivered,2025-02-04,February,Tuesday
+ORD0297,Janani Narang,Karol Bagh,SH009,Bhargava Press Shop,Salwar,1,35,Picked Up,2025-04-09,April,Wednesday
+ORD0298,Gayathri Sood,Pitampura,SH018,Peri Press Shop,Pant,4,80,In Progress,2025-04-16,April,Wednesday
+ORD0299,Aarini Sur,Karol Bagh,SH009,Bhargava Press Shop,Kurta,5,125,Delivered,2025-05-05,May,Monday
+ORD0300,Gaurangi Bhalla,Vasant Kunj,SH003,Dutt Press Shop,Shirt,1,15,Cancelled,2025-04-30,April,Wednesday
+ORD0301,Laksh Pillai,Janakpuri,SH019,Oommen Press Shop,Bedsheet,3,90,Picked Up,2025-02-13,February,Thursday
+ORD0302,Praneel Solanki,Karol Bagh,SH009,Bhargava Press Shop,Suit,3,240,Cancelled,2025-04-20,April,Sunday
+ORD0303,Nihal Dasgupta,Janakpuri,SH012,Narayan Press Shop,Shirt,3,45,Delivered,2024-12-17,December,Tuesday
+ORD0304,Jagvi Tara,Janakpuri,SH016,Kade Press Shop,Jacket,4,200,Picked Up,2025-02-08,February,Saturday
+ORD0305,Dhruv Magar,Dwarka,SH013,Nanda Press Shop,Kurta,3,75,Delivered,2025-02-08,February,Saturday
+ORD0306,Jagvi Wason,Vasant Kunj,SH010,Ganesan Press Shop,Bedsheet,1,30,In Progress,2025-04-22,April,Tuesday
+ORD0307,Falguni Ghose,Janakpuri,SH019,Oommen Press Shop,Kurta,2,50,In Progress,2024-12-01,December,Sunday
+ORD0308,Saanvi Parmar,Karol Bagh,SH020,Arora Press Shop,Jacket,4,200,Pending,2025-04-29,April,Tuesday
+ORD0309,Anya Mani,Janakpuri,SH019,Oommen Press Shop,Jacket,1,50,Cancelled,2025-03-30,March,Sunday
+ORD0310,Jack Mistry,Janakpuri,SH012,Narayan Press Shop,Suit,4,320,In Progress,2024-12-29,December,Sunday
+ORD0311,Triveni Ganguly,Rohini,SH011,Magar Press Shop,Salwar,1,35,In Progress,2024-12-20,December,Friday
+ORD0312,Yuvraj Padmanabhan,Vasant Kunj,SH015,Kanda Press Shop,Pant,3,60,Picked Up,2025-03-25,March,Tuesday
+ORD0313,Aachal Prasad,Dwarka,SH013,Nanda Press Shop,Kurta,5,125,Delivered,2025-01-18,January,Saturday
+ORD0314,Rachana Chandran,Vasant Kunj,SH015,Kanda Press Shop,Jacket,4,200,Delivered,2025-04-01,April,Tuesday
+ORD0315,Eesha Shenoy,Saket,SH007,Sama Press Shop,Jacket,2,100,Picked Up,2024-12-12,December,Thursday
+ORD0316,William Thaker,Karol Bagh,SH009,Bhargava Press Shop,Kurta,3,75,Delivered,2025-04-23,April,Wednesday
+ORD0317,Charvi Prabhu,Janakpuri,SH012,Narayan Press Shop,Suit,1,80,Cancelled,2024-12-08,December,Sunday
+ORD0318,Neha Varkey,Pitampura,SH018,Peri Press Shop,Jacket,5,250,Delivered,2025-03-02,March,Sunday
+ORD0319,Pahal Dewan,Saket,SH007,Sama Press Shop,Salwar,5,175,Pending,2025-05-18,May,Sunday
+ORD0320,Faras Aggarwal,Janakpuri,SH012,Narayan Press Shop,Saree,4,160,Delivered,2025-01-19,January,Sunday
+ORD0321,Ekaraj Anand,Dwarka,SH013,Nanda Press Shop,Jacket,2,100,Picked Up,2025-01-12,January,Sunday
+ORD0322,Kamala Bahri,Vasant Kunj,SH015,Kanda Press Shop,Suit,5,400,Delivered,2025-03-24,March,Monday
+ORD0323,Gautam Sheth,Lajpat Nagar,SH008,Nadig Press Shop,Shirt,3,45,Cancelled,2025-01-09,January,Thursday
+ORD0324,Veer Bir,Pitampura,SH018,Peri Press Shop,Kurta,2,50,Delivered,2025-01-27,January,Monday
+ORD0325,Zayan Jhaveri,Janakpuri,SH012,Narayan Press Shop,Salwar,3,105,Delivered,2025-04-19,April,Saturday
+ORD0326,Kamya Dhawan,Pitampura,SH001,Som Press Shop,Suit,5,400,Delivered,2025-05-01,May,Thursday
+ORD0327,Odika Mohanty,Janakpuri,SH012,Narayan Press Shop,Salwar,5,175,Delivered,2025-04-20,April,Sunday
+ORD0328,Anusha Basak,Saket,SH004,Buch Press Shop,Salwar,2,70,Cancelled,2025-05-20,May,Tuesday
+ORD0329,Ubika Bassi,Pitampura,SH018,Peri Press Shop,Shirt,4,60,Cancelled,2024-12-08,December,Sunday
+ORD0330,Chandresh Devan,Pitampura,SH001,Som Press Shop,Bedsheet,2,60,Delivered,2025-05-26,May,Monday
+ORD0331,Pushti Bobal,Dwarka,SH013,Nanda Press Shop,Salwar,4,140,Cancelled,2025-02-18,February,Tuesday
+ORD0332,Gaurang Bhalla,Saket,SH007,Sama Press Shop,Salwar,4,140,Picked Up,2025-04-11,April,Friday
+ORD0333,Atharv Shankar,Rohini,SH011,Magar Press Shop,Pant,2,40,In Progress,2025-04-03,April,Thursday
+ORD0334,Bhavika Murthy,Janakpuri,SH019,Oommen Press Shop,Jacket,3,150,Cancelled,2025-02-04,February,Tuesday
+ORD0335,Nirja Mittal,Rohini,SH011,Magar Press Shop,Kurta,5,125,In Progress,2025-05-02,May,Friday
+ORD0336,Faraj Parekh,Saket,SH004,Buch Press Shop,Jacket,2,100,Delivered,2025-04-16,April,Wednesday
+ORD0337,Indira Cheema,Pitampura,SH018,Peri Press Shop,Saree,4,160,Picked Up,2025-01-10,January,Friday
+ORD0338,Rushil Chokshi,Vasant Kunj,SH002,Madan Press Shop,Shirt,3,45,In Progress,2025-02-14,February,Friday
+ORD0339,Madhavi Buch,Vasant Kunj,SH010,Ganesan Press Shop,Salwar,4,140,Cancelled,2025-02-28,February,Friday
+ORD0340,Tejas Chand,Janakpuri,SH006,Magar Press Shop,Pant,1,20,Delivered,2025-03-12,March,Wednesday
+ORD0341,Farhan Arora,Dwarka,SH013,Nanda Press Shop,Salwar,1,35,Picked Up,2025-05-30,May,Friday
+ORD0342,Neel Tak,Vasant Kunj,SH010,Ganesan Press Shop,Shirt,5,75,Delivered,2024-12-01,December,Sunday
+ORD0343,Chatura Padmanabhan,Karol Bagh,SH009,Bhargava Press Shop,Bedsheet,1,30,Cancelled,2025-05-07,May,Wednesday
+ORD0344,Upadhriti Sankar,Vasant Kunj,SH002,Madan Press Shop,Bedsheet,5,150,In Progress,2025-05-19,May,Monday
+ORD0345,Banjeet Narain,Dwarka,SH013,Nanda Press Shop,Salwar,1,35,In Progress,2024-12-13,December,Friday
+ORD0346,Tanveer Rajagopalan,Saket,SH007,Sama Press Shop,Pant,2,40,Cancelled,2025-02-05,February,Wednesday
+ORD0347,Champak Babu,Janakpuri,SH006,Magar Press Shop,Kurta,2,50,Cancelled,2025-03-23,March,Sunday
+ORD0348,Girish Vora,Rohini,SH017,Issac Press Shop,Suit,1,80,Delivered,2025-03-09,March,Sunday
+ORD0349,Hemang Bail,Vasant Kunj,SH010,Ganesan Press Shop,Pant,2,40,Picked Up,2025-02-27,February,Thursday
+ORD0350,Baghyawati Venkataraman,Janakpuri,SH019,Oommen Press Shop,Kurta,5,125,Picked Up,2025-01-01,January,Wednesday
+ORD0351,Nachiket Kala,Saket,SH004,Buch Press Shop,Suit,3,240,Pending,2025-05-28,May,Wednesday
+ORD0352,Ishaan Peri,Dwarka,SH013,Nanda Press Shop,Shirt,1,15,Picked Up,2025-05-14,May,Wednesday
+ORD0353,Ekavir Chadha,Rohini,SH017,Issac Press Shop,Suit,5,400,In Progress,2025-04-10,April,Thursday
+ORD0354,Indali Narula,Rohini,SH005,Chakrabarti Press Shop,Saree,3,120,Delivered,2025-01-01,January,Wednesday
+ORD0355,Anirudh Goyal,Rohini,SH011,Magar Press Shop,Pant,2,40,Delivered,2025-05-04,May,Sunday
+ORD0356,Caleb Lalla,Vasant Kunj,SH010,Ganesan Press Shop,Kurta,4,100,Delivered,2025-05-07,May,Wednesday
+ORD0357,Ekta Radhakrishnan,Rohini,SH017,Issac Press Shop,Bedsheet,3,90,Delivered,2025-03-13,March,Thursday
+ORD0358,Ranveer Luthra,Janakpuri,SH016,Kade Press Shop,Salwar,2,70,Pending,2025-02-02,February,Sunday
+ORD0359,Avni Shenoy,Vasant Kunj,SH003,Dutt Press Shop,Kurta,1,25,In Progress,2025-04-12,April,Saturday
+ORD0360,Shivani Prakash,Rohini,SH011,Magar Press Shop,Jacket,5,250,Delivered,2025-04-10,April,Thursday
+ORD0361,Harita Palan,Janakpuri,SH006,Magar Press Shop,Saree,1,40,Cancelled,2025-01-02,January,Thursday
+ORD0362,Aarav Brahmbhatt,Vasant Kunj,SH015,Kanda Press Shop,Saree,1,40,Delivered,2025-05-04,May,Sunday
+ORD0363,Advik Borde,Janakpuri,SH019,Oommen Press Shop,Shirt,1,15,Delivered,2025-01-26,January,Sunday
+ORD0364,Sneha Lalla,Lajpat Nagar,SH008,Nadig Press Shop,Kurta,5,125,Delivered,2025-04-19,April,Saturday
+ORD0365,Rajeshri Sami,Rohini,SH011,Magar Press Shop,Shirt,3,45,Picked Up,2025-05-05,May,Monday
+ORD0366,Girish Saraf,Janakpuri,SH006,Magar Press Shop,Kurta,4,100,Delivered,2025-05-15,May,Thursday
+ORD0367,Ekansh Chanda,Rohini,SH011,Magar Press Shop,Jacket,2,100,In Progress,2025-02-24,February,Monday
+ORD0368,Oviya Kumer,Vasant Kunj,SH010,Ganesan Press Shop,Suit,2,160,In Progress,2025-04-10,April,Thursday
+ORD0369,Upadhriti Malhotra,Rohini,SH011,Magar Press Shop,Saree,3,120,Cancelled,2024-12-05,December,Thursday
+ORD0370,Megha Chauhan,Pitampura,SH001,Som Press Shop,Shirt,5,75,In Progress,2025-04-22,April,Tuesday
+ORD0371,Hemani Bhavsar,Saket,SH004,Buch Press Shop,Shirt,5,75,Cancelled,2025-04-25,April,Friday
+ORD0372,Reyansh Kar,Dwarka,SH013,Nanda Press Shop,Shirt,4,60,Delivered,2025-04-18,April,Friday
+ORD0373,Hemang Dhaliwal,Saket,SH004,Buch Press Shop,Saree,4,160,Cancelled,2025-02-20,February,Thursday
+ORD0374,Vaishnavi Parmer,Pitampura,SH001,Som Press Shop,Shirt,5,75,Delivered,2025-01-31,January,Friday
+ORD0375,Unni Bajaj,Janakpuri,SH012,Narayan Press Shop,Suit,1,80,Cancelled,2025-04-01,April,Tuesday
+ORD0376,Samesh Bahri,Karol Bagh,SH009,Bhargava Press Shop,Jacket,2,100,Picked Up,2024-12-03,December,Tuesday
+ORD0377,Vasana Cheema,Lajpat Nagar,SH008,Nadig Press Shop,Jacket,2,100,In Progress,2025-03-27,March,Thursday
+ORD0378,Aachal Dugar,Saket,SH004,Buch Press Shop,Saree,1,40,Delivered,2025-04-12,April,Saturday
+ORD0379,Damyanti Zacharia,Lajpat Nagar,SH008,Nadig Press Shop,Jacket,2,100,In Progress,2024-12-30,December,Monday
+ORD0380,Anthony Bobal,Dwarka,SH013,Nanda Press Shop,Saree,5,200,Delivered,2025-04-20,April,Sunday
+ORD0381,Noah Kapur,Lajpat Nagar,SH008,Nadig Press Shop,Kurta,3,75,In Progress,2025-02-21,February,Friday
+ORD0382,Abeer Dhar,Vasant Kunj,SH003,Dutt Press Shop,Jacket,4,200,In Progress,2025-04-26,April,Saturday
+ORD0383,Hritik Natt,Dwarka,SH013,Nanda Press Shop,Jacket,3,150,Delivered,2025-01-16,January,Thursday
+ORD0384,Krishna Krishna,Karol Bagh,SH009,Bhargava Press Shop,Saree,4,160,Delivered,2025-03-26,March,Wednesday
+ORD0385,Diya Lanka,Dwarka,SH013,Nanda Press Shop,Jacket,1,50,In Progress,2025-02-25,February,Tuesday
+ORD0386,Rudra Lal,Saket,SH007,Sama Press Shop,Kurta,2,50,Picked Up,2025-02-16,February,Sunday
+ORD0387,Samar Merchant,Dwarka,SH013,Nanda Press Shop,Suit,1,80,Delivered,2025-03-16,March,Sunday
+ORD0388,Vyanjana Kumar,Karol Bagh,SH009,Bhargava Press Shop,Saree,2,80,Picked Up,2025-03-21,March,Friday
+ORD0389,Aadi Deo,Vasant Kunj,SH003,Dutt Press Shop,Jacket,5,250,In Progress,2025-03-06,March,Thursday
+ORD0390,Manan Edwin,Lajpat Nagar,SH008,Nadig Press Shop,Saree,5,200,Pending,2025-01-09,January,Thursday
+ORD0391,Oviya Pai,Dwarka,SH013,Nanda Press Shop,Suit,1,80,In Progress,2025-02-06,February,Thursday
+ORD0392,Jagdish Oak,Saket,SH004,Buch Press Shop,Pant,2,40,In Progress,2025-04-23,April,Wednesday
+ORD0393,Ridhi Barad,Lajpat Nagar,SH008,Nadig Press Shop,Shirt,4,60,Delivered,2024-12-28,December,Saturday
+ORD0394,Ekapad Mannan,Rohini,SH017,Issac Press Shop,Suit,2,160,Delivered,2025-01-04,January,Saturday
+ORD0395,Aditya Deol,Karol Bagh,SH020,Arora Press Shop,Kurta,2,50,Delivered,2025-05-12,May,Monday
+ORD0396,Ishaan Deshpande,Lajpat Nagar,SH008,Nadig Press Shop,Pant,5,100,Delivered,2025-03-29,March,Saturday
+ORD0397,Hemani Uppal,Karol Bagh,SH020,Arora Press Shop,Pant,2,40,In Progress,2025-04-06,April,Sunday
+ORD0398,Devika Sood,Vasant Kunj,SH015,Kanda Press Shop,Kurta,1,25,Cancelled,2025-04-23,April,Wednesday
+ORD0399,Watika Nagi,Vasant Kunj,SH003,Dutt Press Shop,Kurta,2,50,In Progress,2025-01-01,January,Wednesday
+ORD0400,Chaitanya Sekhon,Karol Bagh,SH009,Bhargava Press Shop,Pant,2,40,In Progress,2025-03-28,March,Friday
+ORD0401,Yamini Chand,Vasant Kunj,SH010,Ganesan Press Shop,Shirt,1,15,Delivered,2025-03-15,March,Saturday
+ORD0402,Ishita Chhabra,Vasant Kunj,SH003,Dutt Press Shop,Shirt,2,30,Cancelled,2025-01-17,January,Friday
+ORD0403,Shravya Oak,Lajpat Nagar,SH008,Nadig Press Shop,Saree,4,160,In Progress,2025-04-10,April,Thursday
+ORD0404,Vanya Koshy,Dwarka,SH013,Nanda Press Shop,Salwar,3,105,Delivered,2024-12-21,December,Saturday
+ORD0405,Brijesh Nori,Vasant Kunj,SH015,Kanda Press Shop,Pant,1,20,Delivered,2025-01-08,January,Wednesday
+ORD0406,Darika Vora,Janakpuri,SH016,Kade Press Shop,Kurta,1,25,Picked Up,2024-12-11,December,Wednesday
+ORD0407,Jatin Das,Saket,SH007,Sama Press Shop,Jacket,5,250,Cancelled,2025-01-12,January,Sunday
+ORD0408,Udant Seth,Janakpuri,SH006,Magar Press Shop,Jacket,2,100,Delivered,2025-04-09,April,Wednesday
+ORD0409,Saksham Kaur,Vasant Kunj,SH015,Kanda Press Shop,Jacket,4,200,Cancelled,2025-01-01,January,Wednesday
+ORD0410,Dipta Pandit,Vasant Kunj,SH015,Kanda Press Shop,Jacket,5,250,In Progress,2025-04-24,April,Thursday
+ORD0411,Anthony Sridhar,Rohini,SH017,Issac Press Shop,Bedsheet,1,30,In Progress,2025-05-19,May,Monday
+ORD0412,Maanav Rattan,Janakpuri,SH012,Narayan Press Shop,Jacket,5,250,In Progress,2025-02-01,February,Saturday
+ORD0413,Nimrat Wadhwa,Dwarka,SH013,Nanda Press Shop,Shirt,4,60,Picked Up,2024-12-28,December,Saturday
+ORD0414,Turvi Tak,Rohini,SH017,Issac Press Shop,Salwar,1,35,In Progress,2025-05-13,May,Tuesday
+ORD0415,Omkaar Balasubramanian,Vasant Kunj,SH003,Dutt Press Shop,Shirt,2,30,Delivered,2024-12-17,December,Tuesday
+ORD0416,Urmi Sami,Janakpuri,SH019,Oommen Press Shop,Pant,1,20,Cancelled,2025-01-18,January,Saturday
+ORD0417,Advay Deshmukh,Janakpuri,SH016,Kade Press Shop,Kurta,2,50,Delivered,2024-12-07,December,Saturday
+ORD0418,Advaith Borra,Vasant Kunj,SH002,Madan Press Shop,Jacket,1,50,Pending,2025-05-01,May,Thursday
+ORD0419,Vyanjana Arya,Janakpuri,SH016,Kade Press Shop,Pant,3,60,Delivered,2025-04-15,April,Tuesday
+ORD0420,Amara Raghavan,Rohini,SH005,Chakrabarti Press Shop,Shirt,3,45,Picked Up,2025-03-22,March,Saturday
+ORD0421,Caleb Badal,Pitampura,SH001,Som Press Shop,Kurta,3,75,Picked Up,2025-05-21,May,Wednesday
+ORD0422,Raagini Viswanathan,Saket,SH004,Buch Press Shop,Salwar,5,175,Delivered,2025-03-27,March,Thursday
+ORD0423,Vihaan Barad,Pitampura,SH018,Peri Press Shop,Suit,2,160,Delivered,2025-01-10,January,Friday
+ORD0424,Noah Ray,Vasant Kunj,SH002,Madan Press Shop,Pant,2,40,Delivered,2025-03-15,March,Saturday
+ORD0425,Ucchal Subramaniam,Rohini,SH017,Issac Press Shop,Shirt,3,45,Delivered,2025-04-06,April,Sunday
+ORD0426,Patrick Aurora,Lajpat Nagar,SH008,Nadig Press Shop,Salwar,5,175,In Progress,2025-02-20,February,Thursday
+ORD0427,Jagdish Kalla,Vasant Kunj,SH003,Dutt Press Shop,Jacket,3,150,Delivered,2024-12-16,December,Monday
+ORD0428,Upma Dar,Janakpuri,SH016,Kade Press Shop,Suit,4,320,Delivered,2025-05-15,May,Thursday
+ORD0429,Kamala Jhaveri,Rohini,SH011,Magar Press Shop,Saree,2,80,Delivered,2025-04-06,April,Sunday
+ORD0430,Yasti Nanda,Pitampura,SH001,Som Press Shop,Pant,1,20,Delivered,2025-02-04,February,Tuesday
+ORD0431,Wriddhish Panchal,Janakpuri,SH016,Kade Press Shop,Kurta,3,75,Cancelled,2025-03-16,March,Sunday
+ORD0432,Nathan Swamy,Karol Bagh,SH009,Bhargava Press Shop,Suit,3,240,In Progress,2024-12-16,December,Monday
+ORD0433,Farhan Iyer,Janakpuri,SH006,Magar Press Shop,Bedsheet,3,90,Delivered,2025-02-07,February,Friday
+ORD0434,Dominic Mital,Rohini,SH014,Cheema Press Shop,Jacket,4,200,Pending,2025-02-19,February,Wednesday
+ORD0435,Varsha Dada,Pitampura,SH018,Peri Press Shop,Bedsheet,2,60,Delivered,2025-02-28,February,Friday
+ORD0436,Saumya Dhawan,Vasant Kunj,SH003,Dutt Press Shop,Salwar,1,35,Delivered,2025-05-20,May,Tuesday
+ORD0437,Baljiwan Munshi,Saket,SH004,Buch Press Shop,Kurta,4,100,Delivered,2025-03-10,March,Monday
+ORD0438,Nimrat Nayak,Vasant Kunj,SH010,Ganesan Press Shop,Bedsheet,2,60,Picked Up,2025-01-26,January,Sunday
+ORD0439,Yamini Doctor,Janakpuri,SH006,Magar Press Shop,Saree,2,80,In Progress,2024-12-09,December,Monday
+ORD0440,Raghav Maharaj,Vasant Kunj,SH003,Dutt Press Shop,Kurta,4,100,Cancelled,2024-12-07,December,Saturday
+ORD0441,Urvashi Mishra,Rohini,SH014,Cheema Press Shop,Kurta,1,25,Pending,2025-05-23,May,Friday
+ORD0442,Ekiya Goyal,Vasant Kunj,SH003,Dutt Press Shop,Jacket,3,150,Picked Up,2024-12-10,December,Tuesday
+ORD0443,Kashish Ganesh,Janakpuri,SH019,Oommen Press Shop,Salwar,1,35,Picked Up,2025-01-23,January,Thursday
+ORD0444,Xalak Bhatia,Dwarka,SH013,Nanda Press Shop,Suit,5,400,In Progress,2025-05-30,May,Friday
+ORD0445,Lohit Karan,Rohini,SH017,Issac Press Shop,Shirt,3,45,In Progress,2025-01-29,January,Wednesday
+ORD0446,Nisha Vala,Janakpuri,SH006,Magar Press Shop,Bedsheet,3,90,Delivered,2025-01-14,January,Tuesday
+ORD0447,Agastya Ratti,Saket,SH007,Sama Press Shop,Jacket,3,150,Delivered,2025-01-15,January,Wednesday
+ORD0448,Mitali Anne,Karol Bagh,SH020,Arora Press Shop,Bedsheet,4,120,Delivered,2025-04-10,April,Thursday
+ORD0449,Hemangini Luthra,Janakpuri,SH016,Kade Press Shop,Shirt,2,30,Delivered,2025-01-13,January,Monday
+ORD0450,Aachal Grover,Janakpuri,SH012,Narayan Press Shop,Salwar,5,175,Delivered,2025-05-12,May,Monday
+ORD0451,Qabil Kapur,Janakpuri,SH006,Magar Press Shop,Bedsheet,2,60,Pending,2025-03-26,March,Wednesday
+ORD0452,Om Bose,Pitampura,SH001,Som Press Shop,Shirt,4,60,In Progress,2025-04-12,April,Saturday
+ORD0453,Viraj Mukhopadhyay,Rohini,SH005,Chakrabarti Press Shop,Saree,2,80,Cancelled,2024-12-24,December,Tuesday
+ORD0454,Nathan Bakshi,Rohini,SH014,Cheema Press Shop,Kurta,2,50,Picked Up,2025-05-17,May,Saturday
+ORD0455,Om Mallick,Vasant Kunj,SH002,Madan Press Shop,Salwar,5,175,Pending,2024-12-31,December,Tuesday
+ORD0456,Lucky Sehgal,Rohini,SH005,Chakrabarti Press Shop,Bedsheet,4,120,Delivered,2025-04-02,April,Wednesday
+ORD0457,Lakshit Ramachandran,Pitampura,SH001,Som Press Shop,Suit,5,400,Cancelled,2025-04-13,April,Sunday
+ORD0458,Odika Karpe,Vasant Kunj,SH002,Madan Press Shop,Suit,3,240,Cancelled,2025-02-02,February,Sunday
+ORD0459,Veda Chokshi,Pitampura,SH018,Peri Press Shop,Pant,5,100,Picked Up,2025-04-26,April,Saturday
+ORD0460,Jacob Ganesh,Janakpuri,SH016,Kade Press Shop,Suit,2,160,In Progress,2025-02-16,February,Sunday
+ORD0461,Qabil Sami,Vasant Kunj,SH015,Kanda Press Shop,Bedsheet,1,30,Picked Up,2025-04-15,April,Tuesday
+ORD0462,Bhavika Raja,Rohini,SH011,Magar Press Shop,Jacket,1,50,In Progress,2025-03-27,March,Thursday
+ORD0463,Avni Devan,Pitampura,SH001,Som Press Shop,Shirt,1,15,Delivered,2025-02-08,February,Saturday
+ORD0464,Imaran Pradhan,Saket,SH007,Sama Press Shop,Shirt,1,15,Delivered,2025-01-10,January,Friday
+ORD0465,Max Khatri,Rohini,SH014,Cheema Press Shop,Shirt,4,60,Delivered,2025-05-29,May,Thursday
+ORD0466,Isha Bumb,Karol Bagh,SH020,Arora Press Shop,Suit,4,320,Picked Up,2025-02-09,February,Sunday
+ORD0467,Jeevika Sidhu,Janakpuri,SH019,Oommen Press Shop,Jacket,2,100,In Progress,2025-04-21,April,Monday
+ORD0468,Maanas Vaidya,Dwarka,SH013,Nanda Press Shop,Salwar,4,140,Delivered,2025-02-04,February,Tuesday
+ORD0469,Ronith Shanker,Dwarka,SH013,Nanda Press Shop,Suit,3,240,In Progress,2025-03-08,March,Saturday
+ORD0470,Rushil Ganesan,Vasant Kunj,SH015,Kanda Press Shop,Salwar,2,70,Delivered,2025-03-14,March,Friday
+ORD0471,Chavvi Warrior,Janakpuri,SH006,Magar Press Shop,Kurta,5,125,Delivered,2025-02-19,February,Wednesday
+ORD0472,Dev Ghose,Janakpuri,SH012,Narayan Press Shop,Suit,5,400,In Progress,2025-04-07,April,Monday
+ORD0473,Omya Pandey,Pitampura,SH001,Som Press Shop,Suit,4,320,Picked Up,2025-02-19,February,Wednesday
+ORD0474,Omaja Contractor,Rohini,SH017,Issac Press Shop,Kurta,3,75,Pending,2025-01-11,January,Saturday
+ORD0475,Triya Hayer,Vasant Kunj,SH003,Dutt Press Shop,Suit,3,240,Delivered,2025-05-29,May,Thursday
+ORD0476,Anita Raj,Vasant Kunj,SH010,Ganesan Press Shop,Kurta,1,25,Picked Up,2024-12-22,December,Sunday
+ORD0477,Sai Chaudhuri,Vasant Kunj,SH002,Madan Press Shop,Pant,2,40,Picked Up,2025-04-26,April,Saturday
+ORD0478,Lakshit Ravel,Rohini,SH011,Magar Press Shop,Suit,5,400,Cancelled,2025-03-02,March,Sunday
+ORD0479,Viraj Sani,Saket,SH007,Sama Press Shop,Salwar,1,35,Picked Up,2025-05-30,May,Friday
+ORD0480,Edhitha Varughese,Dwarka,SH013,Nanda Press Shop,Salwar,3,105,Delivered,2025-05-25,May,Sunday
+ORD0481,Dipta Soni,Janakpuri,SH016,Kade Press Shop,Saree,4,160,Delivered,2024-12-27,December,Friday
+ORD0482,Michael Bora,Janakpuri,SH019,Oommen Press Shop,Pant,1,20,In Progress,2025-05-06,May,Tuesday
+ORD0483,Adya Anand,Dwarka,SH013,Nanda Press Shop,Salwar,5,175,Delivered,2025-04-24,April,Thursday
+ORD0484,Atharv Viswanathan,Karol Bagh,SH009,Bhargava Press Shop,Bedsheet,1,30,In Progress,2025-05-29,May,Thursday
+ORD0485,Nisha Lanka,Vasant Kunj,SH010,Ganesan Press Shop,Salwar,5,175,Delivered,2025-03-03,March,Monday
+ORD0486,Aarav Gill,Rohini,SH011,Magar Press Shop,Suit,5,400,In Progress,2025-01-09,January,Thursday
+ORD0487,Unnati Gulati,Vasant Kunj,SH010,Ganesan Press Shop,Salwar,5,175,In Progress,2025-05-28,May,Wednesday
+ORD0488,Shaurya Dubey,Janakpuri,SH019,Oommen Press Shop,Pant,3,60,Delivered,2025-03-21,March,Friday
+ORD0489,Pratyush Krishnamurthy,Lajpat Nagar,SH008,Nadig Press Shop,Bedsheet,2,60,In Progress,2025-02-20,February,Thursday
+ORD0490,Urishilla Dash,Saket,SH004,Buch Press Shop,Saree,2,80,Picked Up,2025-03-05,March,Wednesday
+ORD0491,Forum Dyal,Vasant Kunj,SH015,Kanda Press Shop,Kurta,3,75,Delivered,2025-01-08,January,Wednesday
+ORD0492,Pooja Uppal,Pitampura,SH001,Som Press Shop,Salwar,3,105,Delivered,2024-12-23,December,Monday
+ORD0493,Jatin Hegde,Vasant Kunj,SH015,Kanda Press Shop,Kurta,5,125,Picked Up,2024-12-12,December,Thursday
+ORD0494,Wyatt Sood,Rohini,SH005,Chakrabarti Press Shop,Salwar,1,35,Pending,2025-03-28,March,Friday
+ORD0495,Manya Pillay,Vasant Kunj,SH003,Dutt Press Shop,Pant,5,100,Picked Up,2025-05-19,May,Monday
+ORD0496,Ekaja Sarma,Karol Bagh,SH009,Bhargava Press Shop,Saree,5,200,In Progress,2025-02-15,February,Saturday
+ORD0497,Rachit Tak,Vasant Kunj,SH015,Kanda Press Shop,Pant,1,20,In Progress,2025-01-05,January,Sunday
+ORD0498,Thomas Shenoy,Saket,SH007,Sama Press Shop,Jacket,4,200,Delivered,2025-01-30,January,Thursday
+ORD0499,Lajita Dass,Rohini,SH017,Issac Press Shop,Jacket,3,150,Delivered,2025-01-29,January,Wednesday
+ORD0500,Sara Date,Karol Bagh,SH020,Arora Press Shop,Shirt,3,45,Cancelled,2025-01-24,January,Friday
+ORD0501,Ridhi Ramaswamy,Janakpuri,SH006,Magar Press Shop,Suit,4,320,Delivered,2025-02-22,February,Saturday
+ORD0502,Yadavi Zachariah,Rohini,SH014,Cheema Press Shop,Salwar,4,140,Delivered,2025-02-13,February,Thursday
+ORD0503,Advaith Mangal,Rohini,SH014,Cheema Press Shop,Saree,2,80,In Progress,2025-04-02,April,Wednesday
+ORD0504,Ojasvi Nath,Janakpuri,SH012,Narayan Press Shop,Jacket,5,250,In Progress,2024-12-13,December,Friday
+ORD0505,Yuvraj Nagy,Janakpuri,SH019,Oommen Press Shop,Jacket,4,200,In Progress,2024-12-12,December,Thursday
+ORD0506,Raagini Kale,Saket,SH007,Sama Press Shop,Pant,5,100,Delivered,2025-03-23,March,Sunday
+ORD0507,Omaja Chopra,Rohini,SH005,Chakrabarti Press Shop,Kurta,2,50,In Progress,2024-12-25,December,Wednesday
+ORD0508,Adweta Vaidya,Rohini,SH017,Issac Press Shop,Salwar,3,105,Delivered,2025-03-23,March,Sunday
+ORD0509,Udyati Dave,Pitampura,SH001,Som Press Shop,Suit,5,400,Delivered,2024-12-22,December,Sunday
+ORD0510,Warhi Swaminathan,Karol Bagh,SH020,Arora Press Shop,Suit,1,80,Delivered,2025-02-23,February,Sunday
+ORD0511,Aditya Comar,Rohini,SH011,Magar Press Shop,Pant,3,60,In Progress,2025-03-02,March,Sunday
+ORD0512,Indrajit Kaul,Karol Bagh,SH009,Bhargava Press Shop,Salwar,3,105,In Progress,2024-12-09,December,Monday
+ORD0513,Ishani Palla,Janakpuri,SH019,Oommen Press Shop,Jacket,3,150,Cancelled,2025-05-26,May,Monday
+ORD0514,Parth Kumer,Vasant Kunj,SH010,Ganesan Press Shop,Bedsheet,4,120,Picked Up,2025-02-28,February,Friday
+ORD0515,Amaira Choudhary,Rohini,SH014,Cheema Press Shop,Bedsheet,1,30,Delivered,2025-03-02,March,Sunday
+ORD0516,Indira Raja,Janakpuri,SH012,Narayan Press Shop,Kurta,4,100,In Progress,2025-02-12,February,Wednesday
+ORD0517,Reva Sur,Saket,SH007,Sama Press Shop,Suit,2,160,In Progress,2025-04-19,April,Saturday
+ORD0518,Aarini Prakash,Vasant Kunj,SH002,Madan Press Shop,Pant,4,80,Picked Up,2025-05-09,May,Friday
+ORD0519,Barkha Pandit,Vasant Kunj,SH015,Kanda Press Shop,Suit,1,80,Picked Up,2025-03-31,March,Monday
+ORD0520,Chandran Sastry,Saket,SH004,Buch Press Shop,Pant,3,60,Delivered,2025-04-10,April,Thursday
+ORD0521,Oscar Merchant,Pitampura,SH001,Som Press Shop,Pant,5,100,Delivered,2025-01-14,January,Tuesday
+ORD0522,Aarna Banerjee,Karol Bagh,SH020,Arora Press Shop,Shirt,4,60,In Progress,2025-01-05,January,Sunday
+ORD0523,Yoshita Bajaj,Saket,SH004,Buch Press Shop,Shirt,5,75,In Progress,2025-04-26,April,Saturday
+ORD0524,Panini Ramesh,Karol Bagh,SH009,Bhargava Press Shop,Jacket,3,150,Picked Up,2024-12-21,December,Saturday
+ORD0525,Turvi Gulati,Vasant Kunj,SH015,Kanda Press Shop,Shirt,2,30,Delivered,2025-04-13,April,Sunday
+ORD0526,Vedhika Bassi,Vasant Kunj,SH002,Madan Press Shop,Pant,5,100,Delivered,2025-01-11,January,Saturday
+ORD0527,Lipika Rau,Lajpat Nagar,SH008,Nadig Press Shop,Bedsheet,2,60,Delivered,2025-03-20,March,Thursday
+ORD0528,Hiral Kumer,Janakpuri,SH016,Kade Press Shop,Suit,5,400,In Progress,2025-05-22,May,Thursday
+ORD0529,Yachana Sunder,Vasant Kunj,SH003,Dutt Press Shop,Saree,2,80,Delivered,2025-03-10,March,Monday
+ORD0530,Krisha Kata,Saket,SH007,Sama Press Shop,Suit,2,160,Cancelled,2025-04-14,April,Monday
+ORD0531,Bahadurjit Guha,Saket,SH004,Buch Press Shop,Bedsheet,1,30,Pending,2025-05-07,May,Wednesday
+ORD0532,Ishanvi Nanda,Vasant Kunj,SH002,Madan Press Shop,Shirt,2,30,Pending,2025-01-29,January,Wednesday
+ORD0533,Prisha Ganesan,Lajpat Nagar,SH008,Nadig Press Shop,Saree,1,40,Picked Up,2025-03-13,March,Thursday
+ORD0534,Azad Sane,Lajpat Nagar,SH008,Nadig Press Shop,Shirt,3,45,In Progress,2025-01-10,January,Friday
+ORD0535,George Issac,Vasant Kunj,SH015,Kanda Press Shop,Kurta,5,125,Delivered,2025-01-27,January,Monday
+ORD0536,Yashica Varty,Vasant Kunj,SH015,Kanda Press Shop,Suit,2,160,Picked Up,2025-01-21,January,Tuesday
+ORD0537,Tejas Suri,Vasant Kunj,SH010,Ganesan Press Shop,Pant,5,100,Pending,2025-05-10,May,Saturday
+ORD0538,Urvashi Narain,Rohini,SH014,Cheema Press Shop,Jacket,1,50,In Progress,2025-03-08,March,Saturday
+ORD0539,Bhanumati Anand,Saket,SH007,Sama Press Shop,Saree,3,120,In Progress,2025-01-06,January,Monday
+ORD0540,Tanish Kaur,Lajpat Nagar,SH008,Nadig Press Shop,Salwar,5,175,Delivered,2024-12-06,December,Friday
+ORD0541,Hemang Brahmbhatt,Karol Bagh,SH020,Arora Press Shop,Pant,5,100,Delivered,2025-05-21,May,Wednesday
+ORD0542,Yutika Gera,Rohini,SH014,Cheema Press Shop,Saree,4,160,In Progress,2025-05-17,May,Saturday
+ORD0543,Ekiya Nayak,Dwarka,SH013,Nanda Press Shop,Bedsheet,5,150,Delivered,2025-05-13,May,Tuesday
+ORD0544,Praneel Bajwa,Pitampura,SH018,Peri Press Shop,Suit,5,400,Picked Up,2025-03-31,March,Monday
+ORD0545,Adya Kuruvilla,Vasant Kunj,SH010,Ganesan Press Shop,Salwar,1,35,In Progress,2025-02-14,February,Friday
+ORD0546,Manbir Sahni,Rohini,SH014,Cheema Press Shop,Shirt,2,30,Delivered,2025-02-22,February,Saturday
+ORD0547,Arya Soni,Janakpuri,SH016,Kade Press Shop,Pant,1,20,Delivered,2025-01-04,January,Saturday
+ORD0548,Caleb Korpal,Rohini,SH017,Issac Press Shop,Bedsheet,3,90,Cancelled,2024-12-23,December,Monday
+ORD0549,Ekbal Bala,Pitampura,SH018,Peri Press Shop,Suit,1,80,Delivered,2025-01-24,January,Friday
+ORD0550,Vinaya Pillai,Vasant Kunj,SH002,Madan Press Shop,Bedsheet,2,60,Pending,2024-12-12,December,Thursday
+ORD0551,Falan Bhattacharyya,Janakpuri,SH006,Magar Press Shop,Kurta,5,125,Delivered,2025-01-03,January,Friday
+ORD0552,Orinder Gaba,Janakpuri,SH012,Narayan Press Shop,Shirt,1,15,Delivered,2025-02-27,February,Thursday
+ORD0553,Damini Bahri,Lajpat Nagar,SH008,Nadig Press Shop,Salwar,2,70,Picked Up,2025-05-07,May,Wednesday
+ORD0554,Praneel Kara,Saket,SH007,Sama Press Shop,Bedsheet,3,90,Picked Up,2025-02-08,February,Saturday
+ORD0555,Jeevika Kumer,Saket,SH007,Sama Press Shop,Salwar,1,35,Pending,2025-02-24,February,Monday
+ORD0556,Ishwar Goyal,Vasant Kunj,SH015,Kanda Press Shop,Salwar,3,105,In Progress,2025-04-21,April,Monday
+ORD0557,Bhavika Rajan,Janakpuri,SH006,Magar Press Shop,Shirt,4,60,Delivered,2024-12-07,December,Saturday
+ORD0558,Nidra Tandon,Saket,SH007,Sama Press Shop,Suit,3,240,Picked Up,2025-02-02,February,Sunday
+ORD0559,Keya Srinivasan,Vasant Kunj,SH010,Ganesan Press Shop,Kurta,3,75,In Progress,2025-02-26,February,Wednesday
+ORD0560,Warhi Mohanty,Pitampura,SH018,Peri Press Shop,Salwar,5,175,In Progress,2025-05-26,May,Monday
+ORD0561,Hema Dhaliwal,Vasant Kunj,SH015,Kanda Press Shop,Jacket,4,200,Cancelled,2024-12-10,December,Tuesday
+ORD0562,Lekha Bansal,Vasant Kunj,SH010,Ganesan Press Shop,Suit,2,160,In Progress,2025-02-08,February,Saturday
+ORD0563,Qabil Aggarwal,Janakpuri,SH006,Magar Press Shop,Salwar,1,35,In Progress,2025-01-31,January,Friday
+ORD0564,Manya Nagi,Pitampura,SH001,Som Press Shop,Shirt,5,75,Delivered,2024-12-17,December,Tuesday
+ORD0565,Varsha Goswami,Saket,SH007,Sama Press Shop,Bedsheet,4,120,In Progress,2025-04-27,April,Sunday
+ORD0566,Anika Jani,Saket,SH004,Buch Press Shop,Suit,5,400,In Progress,2025-04-11,April,Friday
+ORD0567,Veer Balasubramanian,Dwarka,SH013,Nanda Press Shop,Shirt,4,60,Delivered,2025-03-21,March,Friday
+ORD0568,Ubika Sankar,Janakpuri,SH019,Oommen Press Shop,Salwar,3,105,Delivered,2025-05-08,May,Thursday
+ORD0569,Zaitra Dada,Vasant Kunj,SH003,Dutt Press Shop,Salwar,5,175,Cancelled,2025-04-02,April,Wednesday
+ORD0570,Arin Bajwa,Vasant Kunj,SH003,Dutt Press Shop,Jacket,4,200,In Progress,2025-02-12,February,Wednesday
+ORD0571,Vaishnavi Dar,Pitampura,SH018,Peri Press Shop,Kurta,1,25,Delivered,2024-12-22,December,Sunday
+ORD0572,Zayan Kaur,Janakpuri,SH012,Narayan Press Shop,Pant,3,60,In Progress,2025-03-01,March,Saturday
+ORD0573,Adya Chowdhury,Saket,SH007,Sama Press Shop,Pant,5,100,Picked Up,2025-04-17,April,Thursday
+ORD0574,Pooja Butala,Vasant Kunj,SH003,Dutt Press Shop,Shirt,4,60,Delivered,2025-04-28,April,Monday
+ORD0575,Sudiksha Badami,Vasant Kunj,SH015,Kanda Press Shop,Shirt,5,75,Delivered,2025-03-21,March,Friday
+ORD0576,Hemani Vohra,Lajpat Nagar,SH008,Nadig Press Shop,Shirt,2,30,In Progress,2025-05-28,May,Wednesday
+ORD0577,Idika Raman,Karol Bagh,SH009,Bhargava Press Shop,Shirt,3,45,Delivered,2025-04-10,April,Thursday
+ORD0578,Samarth Bajaj,Karol Bagh,SH020,Arora Press Shop,Shirt,1,15,Picked Up,2025-03-04,March,Tuesday
+ORD0579,William Gulati,Janakpuri,SH012,Narayan Press Shop,Shirt,1,15,Delivered,2025-05-23,May,Friday
+ORD0580,Odika Garde,Rohini,SH011,Magar Press Shop,Kurta,1,25,In Progress,2025-03-01,March,Saturday
+ORD0581,Nilima Samra,Janakpuri,SH006,Magar Press Shop,Pant,5,100,Picked Up,2024-12-31,December,Tuesday
+ORD0582,Radha Chawla,Pitampura,SH001,Som Press Shop,Kurta,1,25,Delivered,2025-05-24,May,Saturday
+ORD0583,Hema Lanka,Saket,SH004,Buch Press Shop,Salwar,1,35,Pending,2025-05-30,May,Friday
+ORD0584,Karan Kaul,Saket,SH007,Sama Press Shop,Bedsheet,3,90,Cancelled,2025-05-14,May,Wednesday
+ORD0585,Arin Gola,Rohini,SH011,Magar Press Shop,Suit,2,160,Pending,2025-01-26,January,Sunday
+ORD0586,Hredhaan Chahal,Janakpuri,SH006,Magar Press Shop,Bedsheet,3,90,Cancelled,2025-01-28,January,Tuesday
+ORD0587,Aahana Bera,Rohini,SH005,Chakrabarti Press Shop,Bedsheet,1,30,Delivered,2025-03-17,March,Monday
+ORD0588,Rajata Chada,Janakpuri,SH012,Narayan Press Shop,Salwar,1,35,In Progress,2025-02-23,February,Sunday
+ORD0589,Omaja Oommen,Rohini,SH014,Cheema Press Shop,Jacket,1,50,Pending,2024-12-05,December,Thursday
+ORD0590,Yashvi Balasubramanian,Vasant Kunj,SH002,Madan Press Shop,Bedsheet,5,150,Pending,2025-05-29,May,Thursday
+ORD0591,Rajata De,Lajpat Nagar,SH008,Nadig Press Shop,Salwar,1,35,Picked Up,2025-03-09,March,Sunday
+ORD0592,Harinakshi Luthra,Vasant Kunj,SH010,Ganesan Press Shop,Shirt,4,60,In Progress,2025-04-27,April,Sunday
+ORD0593,Balveer Wali,Lajpat Nagar,SH008,Nadig Press Shop,Salwar,5,175,Picked Up,2025-02-18,February,Tuesday
+ORD0594,Vihaan Menon,Lajpat Nagar,SH008,Nadig Press Shop,Pant,5,100,Delivered,2025-01-12,January,Sunday
+ORD0595,Laban Badami,Dwarka,SH013,Nanda Press Shop,Saree,4,160,Delivered,2025-04-22,April,Tuesday
+ORD0596,Pahal Zacharia,Rohini,SH017,Issac Press Shop,Pant,2,40,Pending,2025-05-17,May,Saturday
+ORD0597,Gaurika Bhavsar,Lajpat Nagar,SH008,Nadig Press Shop,Bedsheet,1,30,Delivered,2025-02-28,February,Friday
+ORD0598,Eshana Dass,Vasant Kunj,SH015,Kanda Press Shop,Salwar,3,105,Delivered,2025-02-02,February,Sunday
+ORD0599,Ijaya Seshadri,Rohini,SH014,Cheema Press Shop,Pant,4,80,Delivered,2025-02-04,February,Tuesday
+ORD0600,Nisha Swaminathan,Vasant Kunj,SH002,Madan Press Shop,Kurta,5,125,Delivered,2025-04-15,April,Tuesday
